@@ -2,7 +2,7 @@
 
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
-🔍 SQL queries? Check them out here: project_sql folder
+🔍 SQL queries? Check them out here: [project_sql folder](https://github.com/AryanBaliyan001/SQL_Project_Data_Job_Analysis/tree/main/project_sql)
 
 # **Background**
 
@@ -22,13 +22,13 @@ Data includes insights on job titles, salaries, locations, and essential skills.
 
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
-  · **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
+   · **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
  
-  · **PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
+   · **PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
  
-  · **Visual Studio Code**: My go-to for database management and executing SQL queries.
+   · **Visual Studio Code**: My go-to for database management and executing SQL queries.
  
-  · **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+   · **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # **The Analysis**
 
@@ -67,7 +67,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 
  <img width="1042" height="553" alt="image" src="https://github.com/user-attachments/assets/c7d8eb9e-3eac-468a-94c5-2884874868dd" />
 
-Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results
+*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### **2. Skills for Top Paying Jobs**
 
@@ -110,7 +110,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 
  <img width="1020" height="660" alt="image" src="https://github.com/user-attachments/assets/a111491c-0ae0-47ed-960b-e1404d702ceb" />
 
- Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results
+ *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### **3. In-Demand Skills for Data Analysts**
 
@@ -139,7 +139,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 
 <img width="277" height="280" alt="image" src="https://github.com/user-attachments/assets/68e2b9e8-7fdc-4cf9-b0b4-b37128dd630c" />
 
-Table of the demand for the top 5 skills in data analyst job postings
+*Table of the demand for the top 5 skills in data analyst job postings*
 
 ### **4. Skills Based on Salary**
 
@@ -171,7 +171,7 @@ Here's a breakdown of the results for top-paying skills for Data Analysts:
 
 <img width="342" height="510" alt="image" src="https://github.com/user-attachments/assets/a576b136-9a8d-4d66-9a55-f07d61ed3c64" />
 
-Table of the average salary for the top 10 paying skills for data analysts
+*Table of the average salary for the top 10 paying skills for data analysts*
 
 ### **5. Most Optimal Skills to Learn**
 
@@ -200,7 +200,7 @@ Combining insights from demand and salary data, this query aimed to pinpoint ski
 
 <img width="598" height="512" alt="image" src="https://github.com/user-attachments/assets/29ab4eb3-32c8-4357-be35-78a110f3c3f5" />
 
-Table of the most optimal skills for a data analyst, sorted by salary
+*Table of the most optimal skills for a data analyst, sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
@@ -228,15 +228,15 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 
 From the analysis, several general insights emerged:
 
- **1. Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
+  **1. Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
 
- **2. Skills for Top-Paying Jobs:** High-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
+  **2. Skills for Top-Paying Jobs:** High-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
 
- **3. Most In-Demand Skills:** SQL is also the most in-demand skill in the data analyst job market, thus making it essential for job seekers.
+  **3. Most In-Demand Skills:** SQL is also the most in-demand skill in the data analyst job market, thus making it essential for job seekers.
     
- **4. Skills with Higher Salaries:** Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
+  **4. Skills with Higher Salaries:** Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
     
- **5. Optimal Skills for Job Market Value:** SQL leads in demand and offers a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
+  **5. Optimal Skills for Job Market Value:** SQL leads in demand and offers a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
     
 ### **Closing Thoughts**
 
